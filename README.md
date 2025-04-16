@@ -21,7 +21,7 @@
  <h2> About Me</h2>
   
   <p>I'm <strong>Hasini Eranga</strong> — a student currently pursuing a <strong>BSc in Management Information Systems</strong>.<br>
-     I'm passionate about building clean, practical applications, exploring backend systems and frontend design, and pursuing a career in business analysis.</p>
+   I'm passionate about designing well-structured, scalable applications that provide both technical reliability and a smooth user experience. I enjoy exploring backend systems and frontend design, and I have a growing passion for business analysis.</p>
 </div>
 </td>
 <td width="40%">
